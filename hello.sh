@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "Hello welcome to the hefshine software 🚀"
+echo "welcome to dayanand science college ,latur 🚀"
 date
+pwd
 
