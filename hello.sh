@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello from Git + Jenkins Project 🚀"
+echo "Hello welcome to the hefshine software 🚀"
 date
 
